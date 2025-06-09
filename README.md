@@ -1,5 +1,5 @@
 
-# 🖤 user-portfolios
+# 🖤 PortfolioMinimalista
 
 Um portfólio minimalista em preto e branco, desenvolvido com Vite, TypeScript e Tailwind CSS. Ideal para desenvolvedores e designers que querem apresentar seus projetos de forma elegante e objetiva.
 
